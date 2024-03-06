@@ -1,5 +1,5 @@
 # BlackJack-1
- ***BLACKJACK instrukcija***
+1. ***BLACKJACK instrukcija***
 - Kai pasileidžia programa parašote "yes", kad pradėt žaidimą
 - Žaidimui prasidėjus rodo jūsų rankose esančias kortas
 - Tada jūsų paklausia ar norite dar kortų ar užteks tiek kiek turit
